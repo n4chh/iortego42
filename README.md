@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <div align=left>
+    <div align=center>
         <h1> Cyber Sec Enthusiast and programing lover</h1>
         <br>
         <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp9g1ry006608icsomc4mmt/stats?cursusId=21&coalitionId=64" alt="iortego-'s 42 stats" /></a>
